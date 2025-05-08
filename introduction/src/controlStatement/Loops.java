@@ -29,7 +29,6 @@ public class Loops {
 			System.out.println("Do you want to run again?: Enter 1 for yes");
 			Scanner sc = new Scanner(System.in);
 			choice = sc.nextInt();
-	
 		} while(choice == 1);
 	
 	
